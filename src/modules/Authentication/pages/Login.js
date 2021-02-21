@@ -80,7 +80,7 @@ export default function Login() {
                     >
                       <div className="clearfix login-box">
                         <h1 className="pf-h2 pf-m-0 pf-pb-24">
-                          Sign in to Printful
+                          Sign in to Fulfillmentlab
                         </h1>
                         {' '}
                         {_error.message && (
